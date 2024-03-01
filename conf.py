@@ -375,6 +375,5 @@ linkcheck_ignore = [
     'http://example.archivematica.org',
     'http://myAtoM.ca',
     'https://www.transifex.com/artefactual/archivematica/',
-    r'([(http:)(https:)]*(\/\/)[\S]*(.)*(github.com)([\s\S])*((.md)[#][\w-]*))',
-    'https://www.archivematica.org/download/trac.tar.gz',
+    r'([(http:)(https:)]*(\/\/)[\S]*(.)*(github.com)([\s\S])*((.md)[#][\w-]*))'
 ]
