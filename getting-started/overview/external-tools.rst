@@ -204,7 +204,7 @@ The Unarchiver is an archive unpacker program.
 .. _FFmpeg: http://ffmpeg.org/
 .. _fido: https://github.com/openpreserve/fido/
 .. _File Information Tool Set (FITS): https://projects.iq.harvard.edu/fits
-.. _Gearman: http://gearman.org/
+.. _Gearman: https://gearman.org/
 .. _Ghostscript: https://www.ghostscript.com/
 .. _GNU Affero General Public License (AGPL): https://www.gnu.org/licenses/agpl-3.0.en.html
 .. _GNU General Public License: https://www.gnu.org/licenses/gpl-3.0.en.html
