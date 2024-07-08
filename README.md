@@ -76,7 +76,7 @@ gain access to improved search features.
 
 This local version will contain only the Archivematica documentation; notably
 the Archivematica Storage Service docs will be missing. Instructions on how to
-build a local, offline version of the Archivematica Storage Service is
+build a local, offline version of the Archivematica Storage Service docs are
 available on its [GitHub repo](https://github.com/artefactual/archivematica-storage-service-docs).
 
 ## Contributing
